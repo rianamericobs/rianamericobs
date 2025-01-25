@@ -1,6 +1,6 @@
 ## Opa! Eu sou o Rian Américo
 
-- 🔭 Hoje trabalho com Vendas e Marketing
+- 🔭 Hoje trabalho com software de qualidade de processos
 - 💻 Estudando Python
 
 ![Rian GitHub stats](https://github-readme-stats.vercel.app/api?username=rianamericobs&show_icons=true&theme=radical)
