@@ -1,7 +1,7 @@
 ## Opa! Eu sou o Rian Américo
 
 - 🔭 Hoje trabalho com software de qualidade de processos
-- 💻 Estudando Python
+- 💻 Estudando Python, C, HTML5 e CSS3
 
 ![Rian GitHub stats](https://github-readme-stats.vercel.app/api?username=rianamericobs&show_icons=true&theme=radical)
 
