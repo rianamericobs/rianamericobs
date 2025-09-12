@@ -1,7 +1,7 @@
 ## Opa! Eu sou o Rian Américo
 
-- 🔭 Hoje trabalho com software de qualidade de processos
-- 💻 Estudando Python, C, HTML5 e CSS3
+- 🔭 Pesquisador bolsista do CNPq (PIBIC) no Grupo de Tecnologias Inteligentes, Personalizadas e Sociais (TIPS), sediado no CEPETEC, Instituto de Computação da UFAL
+- 💻 Python, MySQL, JavaScript, HTML5 e CSS3
 
 ![Rian GitHub stats](https://github-readme-stats.vercel.app/api?username=rianamericobs&show_icons=true&theme=radical)
 
