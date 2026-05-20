@@ -1,6 +1,7 @@
 ## Opa! Eu sou o Rian Américo
 
 - 🔭 Pesquisador bolsista do CNPq (PIBIC) no Grupo de Tecnologias Inteligentes, Personalizadas e Sociais (TIPS), sediado no CEPETEC, Instituto de Computação da UFAL
+- 👨‍🏫 Monitor de Matemática Discreta no Instituto de Computação da UFAL
 - 💻 Python, C e MySQL
 
 <div style="display: inline_block"><br>
