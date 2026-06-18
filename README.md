@@ -1,6 +1,6 @@
 ## Opa! Eu sou o Rian Américo
 
-- 📚 Graduando em Ciência da Computação pelo Instituto de Computação (IC) da Universidade Federal de Alagoas (UFAL)
+- 📚 Graduando em Ciência da Computação pelo Instituto de Computação da Universidade Federal de Alagoas
 - 🔭 Pesquisador bolsista do CNPq (PIBIC) no Grupo de Tecnologias Inteligentes, Personalizadas e Sociais (TIPS), sediado no CEPETEC, Instituto de Computação da UFAL
 - 👨‍🏫 Monitor de Matemática Discreta no Instituto de Computação da UFAL
 - 💻 Python, C e MySQL
